@@ -1,0 +1,4 @@
+pyvips====2.1.14
+pandas
+beautifulsoup4
+Pillow
